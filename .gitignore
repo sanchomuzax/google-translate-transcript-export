@@ -1,0 +1,10 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Személyes adatok: mentett átiratok, nyers dumpok, naplók, helyi beállítások
+atiratok/
+dumps/
+*.log
+gt_gui_settings.json
