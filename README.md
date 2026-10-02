@@ -88,3 +88,7 @@ Csak a **fordított** szöveg kerül mentésre, az eredeti nem.
 - A Fordító belső azonosítóira épül (`translated_text`, `content_root`, `recycler_view`, `app_bar_layout`). Ha a Google megváltoztatja az app felületét, igazítani kell rajta.
 - Tesztelve: Xiaomi 14T, HyperOS 3 (Android 16), Google Fordító 10.37.
 - A görgetést kézzel kell végezni, mert az `adb shell input` ezen a telefonon nem engedélyezett (`INJECT_EVENTS`).
+
+## Licenc
+
+MIT, lásd: [LICENSE](LICENSE).
